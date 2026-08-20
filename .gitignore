@@ -1,0 +1,15 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# GitHub Pages deployment marker (peaceiris/actions-gh-pages)
+# not used with official deploy-pages flow; kept for safety
+CNAME

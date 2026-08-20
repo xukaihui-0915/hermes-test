@@ -1,0 +1,8 @@
+baseURL = "https://xukaihui-0915.github.io/hermes-test/"
+languageCode = "zh-CN"
+title = "许凯辉的博客"
+theme = "minimal"
+enableRobotsTXT = true
+
+[params]
+  description = "技术博客:数据库、架构、AI 与全栈实践"
